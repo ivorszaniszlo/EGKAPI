@@ -11,7 +11,7 @@ libs:
     - 'jayson@2.0.5'
     - 'demon@1.4.4'
 sdk_version: node_0.8.28.1
-version: "0.1"
+version: "1.0"EGK
 interfaces:
     drugsearch:
         authentication: false
