@@ -10,8 +10,9 @@ libs:
     - 'follow-redirects@0.2.0'
     - 'jayson@2.0.5'
     - 'demon@1.4.4'
+    - 'lodash@4.17.10'
 sdk_version: node_0.8.28.1
-version: "1.0"
+version: "1.02"
 interfaces:
     drugsearch:
         authentication: false
