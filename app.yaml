@@ -11,7 +11,7 @@ libs:
     - 'demon@1.4.4'
     - 'lodash@4.17.10'
 sdk_version: node_0.8.28.1
-version: "1.03"
+version: "1.04"
 interfaces:
     drugsearch:
         authentication: false
