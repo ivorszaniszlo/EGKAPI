@@ -8,20 +8,22 @@ Fodor Gabor: gabor.fodor@ringieraxelspringer.hu
 
 Ivor Szaniszló: szaniszlo.ivor@ringieraxelspringer.hu
 
+Joó László:  laszlo.joo@ringieraxelspringer.hu
+
 Description
 ===========
 JSON RPC based Node.js application for the EGK service.
 
 Interfaces
 ------------
-geturl
+##### geturl
 
-##### Interface that interprets the url set in parameter. Required parameters: host, path.
+Interface that interprets the url set in parameter. Required parameters: host, path.
 
-drugsearch
+##### drugsearch
 
-##### Drug-seeking application for the hungarian healthguide site: egeszsegkalauz.hu .
-##### Dokumentation: 
+Drug-seeking application for the hungarian healthguide site: egeszsegkalauz.hu .
+Documentation: 
 
 Install
 =============
