@@ -1,6 +1,6 @@
 Repository type and technology
 ==============================
-Node.js application.
+RPC based Node.js application.
 
 Developers
 ================
@@ -10,7 +10,18 @@ Ivor Szaniszló: szaniszlo.ivor@ringieraxelspringer.hu
 
 Description
 ===========
-Node.js application for the EGK services.
+JSON RPC based Node.js application for the EGK service.
+
+Interfaces
+------------
+geturl
+
+##### Interface that interprets the url set in parameter. Required parameters: host, path.
+
+drugsearch
+
+##### Drug-seeking application for the hungarian healthguide site: egeszsegkalauz.hu .
+##### Dokumentation: 
 
 Install
 =============
