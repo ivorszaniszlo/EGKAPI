@@ -23,7 +23,7 @@ Interface that interprets the url set in parameter. Required parameters: host, p
 #### drugsearch
 
 Drug-seeking application for the hungarian healthguide site: egeszsegkalauz.hu .
-Documentation: 
+Documentation: lib/doc/EGK-DrugSearchApi_dokumentacio_ver1.1.pdf
 
 Install
 =============
