@@ -10,4 +10,10 @@ sftp-config.json
 debug.txt
 .vscode
 .ssh
+<<<<<<< HEAD
 .gitignore
+=======
+_getProductMethod.js
+getDiseaseGroupMethod.js
+.idea
+>>>>>>> f7b264f00967c08947ea77111222de34eebcc273
