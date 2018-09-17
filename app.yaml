@@ -9,7 +9,7 @@ libs:
     - 'follow-redirects@0.2.0'
     - 'demon@1.4.4'
 sdk_version: node_0.8.28.1
-version: "1.11"
+version: "1.12"
 interfaces:
     drugsearch:
         authentication: false
