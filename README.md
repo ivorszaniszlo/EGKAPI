@@ -4,11 +4,8 @@ RPC based Node.js application.
 
 Developers
 ================
-Fodor Gabor: gabor.fodor@ringieraxelspringer.hu
 
 Ivor Szaniszló: szaniszlo.ivor@ringieraxelspringer.hu
-
-Joó László:  laszlo.joo@ringieraxelspringer.hu
 
 Description
 ===========
@@ -23,7 +20,7 @@ Interface that interprets the url set in parameter. Required parameters: host, p
 #### drugsearch
 
 Drug-seeking application for the hungarian healthguide site: egeszsegkalauz.hu .
-Documentation: lib/doc/EGK-DrugSearchApi_dokumentacio_ver1.1.pdf
+Documentation: lib/doc/EGK-DrugSearchApi_dokumentacio_ver1.17.pdf
 
 Install
 =============
