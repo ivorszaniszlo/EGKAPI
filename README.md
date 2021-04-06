@@ -6,6 +6,7 @@
 * [Screenshot](#screenshot)
 * [Technolgies](#technolgies)
 * [Setup](#setup)
+* [Documentation](#documentation)
 * [Developer](#developer)
 * [Status](#status)
 * [Created](#created)
@@ -47,6 +48,10 @@ Start:
     cde sdk use node_0.8.28.1
 
     cde app
+
+## Documentation
+
+Documentation is available here: ./lib/doc/Egeszsegkalauz-APIdokumentaciover1.17.pdf
 
 ## Developer
 
