@@ -1,35 +1,65 @@
-Repository type and technology
-==============================
-RPC based Node.js application.
+# EGKAPI
 
-Developers
-================
+## Table of contents
+* [General info](#general-info)
+* [Description](#description)
+* [Screenshot](#screenshot)
+* [Technolgies](#technolgies)
+* [Setup](#setup)
+* [Developer](#developer)
+* [Status](#status)
+* [Created](#created)
+* [License](#license)
+
+## General info
+
+JSON RPC based Node.js application for the EGK service, that runs on special Ringier Axel Springer UCS platform.
+
+## Description
+
+The application is the api server of the hungarian healthguide site [Egészségkalauz](https://egeszsegkalauz.hu), that contains **interfaces**.
+
++ geturl: Interface that interprets the url set in parameter. Required parameters: host, path.
+
++ drugsearch: Drug-seeking application for the hungarian healthguide site, available here: [Egészségkalauz - gyógyszerkereső](https://www.egeszsegkalauz.hu/gyogyszerkereso)
+
+## Screenshot
+
+![Drugsearch screenshot](./lib/img/drugsearch-screenshot.jpg)
+
+## Technolgies
+
++ UCS
++ Node.js 0.8.28.1
++ Vanilla JS
++ JSON-RPC 2.0
+
+## Setup
+
+Install:
+    
+    cde sdk use node_0.8.28.1
+
+    cde install
+    
+Start:
+
+    cde sdk use node_0.8.28.1
+
+    cde app
+
+## Developer
 
 Ivor Szaniszló: szaniszlo.ivor@ringieraxelspringer.hu
 
-Description
-===========
-JSON RPC based Node.js application for the EGK service.
+## Status
 
-Interfaces
-------------
-#### geturl
+*Deprecated*
 
-Interface that interprets the url set in parameter. Required parameters: host, path.
+## Created
 
-#### drugsearch
+2018
 
-Drug-seeking application for the hungarian healthguide site: egeszsegkalauz.hu .
-Documentation: lib/doc/EGK-DrugSearchApi_dokumentacio_ver1.17.pdf
+## License
 
-Install
-=============
-cde sdk use node_0.8.28.1
-
-cde install
-
-Start
-=============
-cde sdk use node_0.8.28.1
-
-cde app
+Copyright
